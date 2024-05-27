@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:layout_margin="10dp"
+    android:orientation="vertical">
+
+        <VideoView
+            android:id="@+id/mainVideo"
+            android:layout_width="match_parent"
+            android:layout_height="324dp" />
+
+        <Button
+            android:id="@+id/playVideoButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Play Video"
+            android:visibility="visible"
+            android:onClick="PlayVideo"/>
+
+        <Button
+            android:id="@+id/skipVideoButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Skip Video"
+            android:onClick="SkipVideo"/>
+
+</LinearLayout>

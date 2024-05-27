@@ -1,0 +1,232 @@
+[
+    {
+        "suitName": "Men's Tyr Venzo",
+        "suitSpecs": {
+            "Picture Source": "men_tyr_venzo",
+            "Compression": "9",
+            "Price Range": "270$ - 400$",
+            "Strokes": "Breaststroke and I.M.",
+            "Distances": "All"
+        }
+    },
+
+    {
+        "suitName": "Women's Tyr Venzo",
+        "suitSpecs": {
+            "Picture Source": "women_tyr_venzo",
+            "Compression": "9",
+            "Price Range": "270$ - 400$",
+            "Strokes": "Breaststroke and I.M.",
+            "Distances": "All"
+        }
+    },
+
+    {
+        "suitName": "Men's Tyr Avictor",
+        "suitSpecs": {
+            "Picture Source": "men_tyr_avictor",
+            "Compression": "6",
+            "Price Range": "270$ - 400$",
+            "Strokes": "All",
+            "Distances": "All"
+        }
+    },
+
+    {
+        "suitName": "Women's Tyr Avictor",
+        "suitSpecs": {
+            "Picture Source": "women_tyr_avictor",
+            "Compression": "6",
+            "Price Range": "270$ - 400$",
+            "Strokes": "All",
+            "Distances": "All"
+        }
+    },
+
+    {
+        "suitName": "Men's Tyr Shockwave",
+        "suitSpecs": {
+            "Picture Source": "men_tyr_shockwave",
+            "Compression": "9",
+            "Price Range": "270$ - 400$",
+            "Strokes": "Freestyle",
+            "Distances": "All"
+        }
+    },
+
+    {
+        "suitName": "Men's Arena Carbon Core-Fx",
+        "suitSpecs": {
+            "Picture Source": "men_arena_carbon_core_fx",
+            "Compression": "10",
+            "Price Range": "270$ - 400$",
+            "Strokes": "All",
+            "Distances": "Short - 50m, 100m, 200m"
+        }
+    },
+
+    {
+        "suitName": "Women's Arena Carbon Core-Fx",
+        "suitSpecs": {
+            "Picture Source": "women_arena_carbon_core_fx",
+            "Compression": "10",
+            "Price Range": "270$ - 400$",
+            "Strokes": "All",
+            "Distances": "Short - 50m, 100m, 200m"
+        }
+    },
+
+    {
+        "suitName": "Men's Arena Carbon Glide",
+        "suitSpecs": {
+            "Picture Source": "men_arena_carbon_glide",
+            "Compression": "7",
+            "Price Range": "270$ - 400$",
+            "Strokes": "All",
+            "Distances": "All"
+        }
+    },
+
+    {
+        "suitName": "Women's Arena Carbon Glide",
+        "suitSpecs": {
+            "Picture Source": "women_arena_carbon_glide",
+            "Compression": "7",
+            "Price Range": "270$ - 400$",
+            "Strokes": "All",
+            "Distances": "All"
+        }
+    },
+
+    {
+        "suitName": "Men's Arena Carbon Air2",
+        "suitSpecs": {
+            "Picture Source": "men_arena_carbon_air2",
+            "Compression": "6",
+            "Price Range": "270$ - 400$",
+            "Strokes": "All",
+            "Distances": "Long - 400m, 800m, 1500m"
+        }
+    },
+
+    {
+        "suitName": "Women's Arena Carbon Air2",
+        "suitSpecs": {
+            "Picture Source": "women_arena_carbon_air2",
+            "Compression": "6",
+            "Price Range": "270$ - 400$",
+            "Strokes": "All",
+            "Distances": "Long - 400m, 800m, 1500m"
+        }
+    },
+
+    {
+        "suitName": "Men's Arena Powerskin Primo",
+        "suitSpecs": {
+            "Picture Source": "men_arena_powerskin_primo",
+            "Compression": "6",
+            "Price Range": "450$",
+            "Strokes": "All",
+            "Distances": "All"
+        }
+    },
+
+    {
+        "suitName": "Women's Arena Powerskin Primo",
+        "suitSpecs": {
+            "Picture Source": "women_arena_powerskin_primo",
+            "Compression": "6",
+            "Price Range": "650$",
+            "Strokes": "All",
+            "Distances": "All"
+        }
+    },
+
+    {
+        "suitName": "Men's Speedo Pure Intent",
+        "suitSpecs": {
+            "Picture Source": "men_speedo_pure_intent",
+            "Compression": "8",
+            "Price Range": "270$ - 400$",
+            "Strokes": "All",
+            "Distances": "Short - 50m, 100m, 200m"
+        }
+    },
+
+    {
+        "suitName": "Women's Speedo Pure Intent",
+        "suitSpecs": {
+            "Picture Source": "women_speedo_pure_intent",
+            "Compression": "8",
+            "Price Range": "270$ - 400$",
+            "Strokes": "All",
+            "Distances": "Short - 50m, 100m, 200m"
+        }
+    },
+
+    {
+        "suitName": "Men's Speedo Pure Valor",
+        "suitSpecs": {
+            "Picture Source": "men_speedo_pure_valor",
+            "Compression": "6",
+            "Price Range": "270$ - 400$",
+            "Strokes": "All",
+            "Distances": "All"
+        }
+    },
+
+    {
+        "suitName": "Women's Speedo Pure Valor",
+        "suitSpecs": {
+            "Picture Source": "women_speedo_pure_valor",
+            "Compression": "6",
+            "Price Range": "270$ - 400$",
+            "Strokes": "All",
+            "Distances": "All"
+        }
+    },
+
+    {
+        "suitName": "Men's Speedo Pure Intent 2.0",
+        "suitSpecs": {
+            "Picture Source": "men_speedo_pure_intent_2_0",
+            "Compression": "6",
+            "Price Range": "399$",
+            "Strokes": "All",
+            "Distances": "Short - 50m, 100m, 200m"
+        }
+    },
+
+    {
+        "suitName": "Women's Speedo Pure Intent 2.0",
+        "suitSpecs": {
+            "Picture Source": "women_speedo_pure_intent_2_0",
+            "Compression": "6",
+            "Price Range": "599$",
+            "Strokes": "All",
+            "Distances": "Short - 50m, 100m, 200m"
+        }
+    },
+
+    {
+        "suitName": "Men's Speedo Pure Valor 2.0",
+        "suitSpecs": {
+            "Picture Source": "men_speedo_pure_valor_2_0",
+            "Compression": "6",
+            "Price Range": "399$",
+            "Strokes": "All",
+            "Distances": "All"
+        }
+    },
+
+    {
+        "suitName": "Women's Speedo Pure Valor 2.0",
+        "suitSpecs": {
+            "Picture Source": "women_speedo_pure_valor_2_0",
+            "Compression": "6",
+            "Price Range": "599$",
+            "Strokes": "All",
+            "Distances": "All"
+        }
+    }
+]

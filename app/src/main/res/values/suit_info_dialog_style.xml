@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="suit_name_text_view">
+        <item name="android:textColor">@color/purple</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">@string/default_text_view_value</item>
+    </style>
+
+    <style name="suit_info_text_view">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">@string/default_text_view_value</item>
+    </style>
+
+    <style name="suit_picture_image_view">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:src">@drawable/app_icon</item>
+    </style>
+
+</resources>

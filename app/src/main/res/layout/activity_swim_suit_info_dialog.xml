@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainLinearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center_horizontal"
+    android:background="@color/white"
+    android:padding="20dp" >
+
+    <LinearLayout
+        android:id="@+id/infoLinearLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/suitNameTextView"
+            style="@style/suit_name_text_view" />
+
+        <TextView
+            android:id="@+id/suitCompressionTextView"
+            style="@style/suit_info_text_view" />
+
+        <TextView
+            android:id="@+id/suitPriceRangeTextView"
+            style="@style/suit_info_text_view" />
+
+        <TextView
+            android:id="@+id/suitStrokesTextView"
+            style="@style/suit_info_text_view" />
+
+        <TextView
+            android:id="@+id/suitDistancesTextView"
+            style="@style/suit_info_text_view" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/suitPictureImageView"
+        android:contentDescription="@string/suit_picture_content_description"
+        style="@style/suit_picture_image_view"/>
+
+</LinearLayout>
